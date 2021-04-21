@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
-import Counters from "./component/counters";
 import "bootstrap/dist/css/bootstrap.min.css";
 import App from "./App";
 

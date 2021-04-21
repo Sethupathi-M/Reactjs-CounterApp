@@ -1,11 +1,3 @@
-import React, { Component } from "react";
-
-// class NavBar extends Component {
-//   render() {
-
-//   }
-// }
-
 // Stateless Functional Component
 const NavBar = (props) => {
   return (
